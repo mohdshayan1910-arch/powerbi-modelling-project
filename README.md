@@ -192,17 +192,8 @@ The project provided hands-on practice with several important Power BI concepts:
 
 The final Power BI model demonstrates the relationships between the fact and dimension tables.
 
-![Data Model](<img width="959" height="478" alt="image" src="https://github.com/user-attachments/assets/9352fd89-0a31-4e5b-a166-2c4737bc39d6" />)
-
----
-
-## Dashboard / Report
-
-The report layer provides an analytical interface built on top of the structured data model.
-
-![Dashboard](Screenshots/Dashboard.png)
-
-> **Note:** Replace the image paths above with the actual screenshot filenames used in the repository.
+![Data Model](<img width="959" height="478" alt="Cleaned Model" src="https://github.com/user-attachments/assets/bc7f49b6-a714-4815-a95d-e33be694d9aa" />
+)
 
 ---
 
@@ -274,13 +265,6 @@ The final model provides:
 
 ---
 
-# 📚 Reference
-
-This project was completed as a **guided learning project** based on a Power BI data modeling tutorial by **Baraa Khatib**.
-
-The implementation was used as hands-on practice to understand Power BI data modeling concepts, Star Schema design, and relationship management.
-
----
 
 # 👤 Author
 
