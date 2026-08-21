@@ -212,7 +212,7 @@ Power-BI-Data-Modeling-Project/
 │
 ├── Screenshots/
 │   ├── Data_Model.png
-│   ├── Dashboard.png
+│   ├── Messy_Model.png
 │   └── ...
 │
 └── Documentation/
