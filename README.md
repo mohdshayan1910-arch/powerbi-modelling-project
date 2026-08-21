@@ -192,8 +192,9 @@ The project provided hands-on practice with several important Power BI concepts:
 
 The final Power BI model demonstrates the relationships between the fact and dimension tables.
 
-![Data Model](<img width="959" height="478" alt="Cleaned Model" src="https://github.com/user-attachments/assets/bc7f49b6-a714-4815-a95d-e33be694d9aa" />
-)
+![Data Model]
+
+(<img width="959" height="478" alt="Cleaned Model" src="https://github.com/user-attachments/assets/bc7f49b6-a714-4815-a95d-e33be694d9aa" />)
 
 ---
 
